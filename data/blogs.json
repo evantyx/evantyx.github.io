@@ -7,7 +7,7 @@
     "summary": "AI interfaces become valuable when users understand what the system is doing, why a result appeared, how reliable it is, and what they can safely do next. Trust is not created by model accuracy alone. It is designed through product behavior, communication, transparency, and control.",
     "visual": "Neural Flow",
     "image": "/images/blog/ai-interfaces/ai-interfaces-cover.jpg",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-05-18T09:30:00+05:30",
     "sections": [
       {
@@ -150,7 +150,7 @@
     "summary": "Agentic AI changes software because systems no longer only respond to users. They can observe context, plan actions, call tools, continue tasks, request approval, and operate across departments. This creates powerful opportunities and new responsibilities for product, engineering, and security teams.",
     "visual": "Autonomous Grid",
     "image": "/images/blog/agentic-ai/agentic-ai-workflows-cover.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-05-14T10:00:00+05:30",
     "sections": [
       {
@@ -292,7 +292,7 @@
     "summary": "AI-native development is not only about generating code. It reshapes how teams write requirements, understand legacy systems, create tests, review pull requests, maintain documentation, and move from idea to production faster.",
     "visual": "Code Intelligence",
     "image": "/images/blog/ai-native/ai-native-development-code-intelligence.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-05-10T11:15:00+05:30",
     "sections": [
       {
@@ -435,7 +435,7 @@
     "summary": "AI security is no longer limited to infrastructure. Products must defend against prompt injection, data leakage, unsafe tool use, identity misuse, model abuse, and unclear permission boundaries.",
     "visual": "Quantum Shield",
     "image": "/images/blog/ai-security/ai-security-quantum-shield.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-05-06T08:45:00+05:30",
     "sections": [
       {
@@ -578,7 +578,7 @@
     "summary": "Confidential computing helps protect data while it is being processed, making it highly relevant for AI workloads involving financial records, healthcare data, customer information, legal documents, and proprietary business knowledge.",
     "visual": "Secure Enclave",
     "image": "/images/blog/confidential-computing-ai/confidential-computing-secure-enclave.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-05-02T12:20:00+05:30",
     "sections": [
       {
@@ -644,7 +644,7 @@
     "summary": "Edge AI allows intelligence to run locally instead of relying completely on cloud systems. This enables faster decisions, stronger privacy, offline functionality, lower latency, and new real-time experiences.",
     "visual": "Edge Signal",
     "image": "/images/blog/edge-ai-on-device-intelligence/edge-ai-edge-signal.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-27T09:10:00+05:30",
     "sections": [
       {
@@ -710,7 +710,7 @@
     "summary": "Multimodal AI expands software beyond typed prompts. Users will be able to show, speak, point, upload, annotate, and collaborate with systems that understand many forms of context at once.",
     "visual": "Sensory Matrix",
     "image": "/images/blog/multimodal-ai-interfaces/multimodal-ai-sensory-matrix.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-22T16:05:00+05:30",
     "sections": [
       {
@@ -766,7 +766,7 @@
     "summary": "AI observability helps teams understand why a system produced an answer, which context was retrieved, what the model saw, how much it cost, and where the workflow failed.",
     "visual": "Signal Mesh",
     "image": "/images/blog/observability-for-ai-systems/ai-observability-signal-mesh.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-18T14:40:00+05:30",
     "sections": [
       {
@@ -832,7 +832,7 @@
     "summary": "Physical AI combines perception, reasoning, robotics, sensors, and control systems to help machines understand and act in real-world environments. It will reshape manufacturing, logistics, healthcare, retail, agriculture, and home automation.",
     "visual": "Machine Perception",
     "image": "/images/blog/physical-ai-robotics/physical-ai-machine-perception.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-12T10:35:00+05:30",
     "sections": [
       {
@@ -898,7 +898,7 @@
     "summary": "Privacy-first AI is about designing memory, personalization, data retention, and consent in a way that feels understandable, respectful, and controllable for users.",
     "visual": "Digital Vault",
     "image": "/images/blog/privacy-first-ai-products/privacy-first-ai-digital-vault.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-08T13:25:00+05:30",
     "sections": [
       {
@@ -964,7 +964,7 @@
     "summary": "Digital provenance helps users understand the origin, ownership, edits, and authenticity of content. In an era of AI-generated text, images, audio, video, and documents, provenance becomes a foundation for trust.",
     "visual": "Authenticity Chain",
     "image": "/images/blog/digital-provenance-ai-content/digital-provenance-authenticity-chain.png",
-    "author": "Evan Tyx",
+    "author": "",
     "date": "2026-04-03T15:55:00+05:30",
     "sections": [
       {
